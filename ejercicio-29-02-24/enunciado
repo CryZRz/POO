@@ -1,0 +1,6 @@
+Realizar el codigo en java qu emanipule sobrecarga de constructores el programa debe ayudar a registrar equipos, los equipos son los siguiente
+1.-computadora
+Se debe registrar velocidad disco duro, ram, pulgadas de pantalla y precio
+2.-Celular
+Sistema operativo, marca, y precio
+Se debra imprimir la ficha del equpo registrado

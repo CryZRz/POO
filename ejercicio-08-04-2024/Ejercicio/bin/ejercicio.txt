@@ -1,0 +1,2 @@
+clave numerica nombre y direccion los empleados pueden ser programaodores si son programadores 
+se le debera preguntar año de egreso ultima empresa donde trabajo y lenguajes de programacion que domina 
